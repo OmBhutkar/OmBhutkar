@@ -96,21 +96,19 @@ Passionate about leveraging artificial intelligence and machine learning to solv
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBhutkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmBhutkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmBhutkar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OmBhutkar&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhutkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhutkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=OmBhutkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=OmBhutkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
