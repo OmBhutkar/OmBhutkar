@@ -121,7 +121,7 @@ Passionate about leveraging artificial intelligence and machine learning to solv
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=OmBhutkar&icon=2&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OmBhutkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
